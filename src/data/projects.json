@@ -1,0 +1,27 @@
+[
+  {
+    "title": "MemBrain Game",
+    "imageSrc": "projects/membrain1.png",
+    "description": "Developed a memory skill game where players repeat sequences of lights and sounds.",
+    "skills": ["HTML", "CSS", "Bootstrap","JQuery","JavaScript"],
+    "demo": "https://nirmal-aditya.github.io/MemBrain-Game/",
+    "source": "https://github.com/Nirmal-aditya/MemBrain-Game"
+  },
+  {
+    "title": "Youtube Homepage Clone",
+    "imageSrc": "projects/youtube.png",
+    "description": "Develop a clone of the YouTube homepage replicating it's exact Design focusing on fundamentals of structure.",
+    "skills": ["HTML", "CSS", "Bootstrap"],
+    "demo": "https://drive.google.com/file/d/1X0ufbq2pS5aWwdYgmYv3RMKtucHihTs4/view?usp=sharing",
+    "source": "https://github.com/Nirmal-aditya/Youtube-Clone"
+  },
+  {
+    "title": "Apple Website CLone",
+    "imageSrc": "projects/apple.png",
+    "description": "Develop an exact replica of the Apple homepage,focusing on mirroring its design, layout and enhancing user experience."
+,
+    "skills": ["HTML", "CSS"],
+    "demo": "https://drive.google.com/file/d/1-ZJi5hUxhr0gwefFWOWn_wWzWzMy7Efw/view?usp=sharing",
+    "source": "https://github.com/Nirmal-aditya/Apple-Website-Clone"
+  }
+]
